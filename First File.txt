@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Back to master Line 2
+=======
+Back to master Line1
+>>>>>>> master
