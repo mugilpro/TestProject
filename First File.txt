@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< HEAD 2 111 dev diff
+=======
+<<<<<<< HEAD 2 111 diff
+>>>>>>> master
 Back to master Line 2
 =======
 Back to master Line1
